@@ -10,13 +10,13 @@ Over a period of nine years in deep space, the NASA Kepler space telescope has b
 To help process this data, I have created four machine learning models capable of classifying candidate exoplanets from the raw dataset. 
 
 ## THE WORK     
-#### Four Models Created:     
+#### *Four Models Created:*     
 1. ``K Nearest Neighbors``
 2. ``Logistic Regression``
 3. ``SVM``
 4. ``Trees``     
 5. *An addition neural network model can be found [here](https://github.com/VallieTracy/machine-learning-challenge/tree/master/NeuralNetworkModel_1.ipynb "Neural Network").*     
-#### Packages/Libraries Used: 
+### *Packages/Libraries Used:* 
 - [Sklearn](https://scikit-learn.org/stable/index.html "scikit-learn")
 - Joblib
 - Pandas
