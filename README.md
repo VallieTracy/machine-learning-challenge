@@ -13,8 +13,8 @@ To help process this data, I have created four machine learning models capable o
 #### *Four Models Created:*     
 1. ``K Nearest Neighbors``
 2. ``Logistic Regression``
-3. ``SVM``
-4. ``Trees``     
+3. ``LinearSVC``
+4. ``Decision Tree``     
 5. *An addition neural network model can be found [here](https://github.com/VallieTracy/machine-learning-challenge/tree/master/NeuralNetworkModel_1.ipynb "Neural Network").*     
 #### *Packages/Libraries Used:* 
 - [Sklearn](https://scikit-learn.org/stable/index.html "scikit-learn")
