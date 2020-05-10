@@ -16,7 +16,7 @@ To help process this data, I have created four machine learning models capable o
 3. ``SVM``
 4. ``Trees``     
 5. *An addition neural network model can be found [here](https://github.com/VallieTracy/machine-learning-challenge/tree/master/NeuralNetworkModel_1.ipynb "Neural Network").*     
-### *Packages/Libraries Used:* 
+#### *Packages/Libraries Used:* 
 - [Sklearn](https://scikit-learn.org/stable/index.html "scikit-learn")
 - Joblib
 - Pandas
@@ -24,7 +24,7 @@ To help process this data, I have created four machine learning models capable o
 - Matplotlib
 - TensorFlow for the neural network
 
-#### Tools Used to Optimize the Data     
+#### *Tools Used to Optimize the Data:*     
   - GridSearchCV for hyperparameter tuning          
   - MinMaxScaler for preprocessing      
   - ExtraTreesClassifier for feature selection  
