@@ -15,8 +15,8 @@ To help process this data, I have created four machine learning models capable o
 2. ``Logistic Regression``
 3. ``SVM``
 4. ``Trees``     
-**an addition neural network model can be found**
-*Visit the FinishedProduct folder to see some sample screenshots of my work, or simply click [here](https://github.com/VallieTracy/machine-learning-challenge/tree/master/NeuralNetworkModel_1.ipynb "FinishedProduct").*
+
+**An addition neural network model can be found [here](https://github.com/VallieTracy/machine-learning-challenge/tree/master/NeuralNetworkModel_1.ipynb "Neural Network").**
 
 
 
