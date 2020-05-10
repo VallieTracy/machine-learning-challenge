@@ -9,7 +9,7 @@ Over a period of nine years in deep space, the NASA Kepler space telescope has b
 
 To help process this data, I have created four machine learning models capable of classifying candidate exoplanets from the raw dataset. 
 
-## The Work:     
+## THE WORK:     
 ### Four Models Created:     
 1. ``K Nearest Neighbors``
 2. ``Logistic Regression``
@@ -29,7 +29,7 @@ To help process this data, I have created four machine learning models capable o
   - MinMaxScaler for preprocessing      
   - ExtraTreesClassifier for feature selection  
 
-
+## ANALYSIS 
 
 
 ### Before You Begin
