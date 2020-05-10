@@ -37,7 +37,7 @@ As far as which model 'performed' the best, it really depends on what we're look
       
 Another intersting observation: yes, SVM had the highest score after feature selection and hypertuning, at .8932.  Potentially more interesting, it had the lowest difference between the Training Data and Testing Data.  And at the other end of the spectrum, the Decision Tree model had the highest difference.
 
-The Logistic Model had the most fluctation in the classification report from the first model to the second.  But seeing some zero values, I might have made a misstep. I've included a screen shot of the report [here](https://github.com/VallieTracy/machine-learning-challenge/tree/master/Classification Reports "Neural Network")  Something to be looked at should this project be explored further.
+The Logistic Model had the most fluctation in the classification report from the first model to the second.  But seeing some zero values, I might have made a misstep. I've included a screen shot of the report [here](https://github.com/VallieTracy/machine-learning-challenge/tree/master/Classification_Reports "Logistic Report")  Something to be looked at should this project be explored further.
 
 The final results of the trainingg data:
 1. KNN started at .8545 and ended at .8825     
