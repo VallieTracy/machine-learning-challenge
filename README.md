@@ -1,4 +1,5 @@
-# Machine Learning Homework - Exoplanet Exploration
+# Exoplanet Exploration
+## Using Machine Learning to Find Planets
 
 ![exoplanets.jpg](Images/exoplanets.jpg)
 
