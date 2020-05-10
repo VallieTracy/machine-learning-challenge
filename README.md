@@ -37,6 +37,14 @@ As far as which model 'performed' the best, it really depends on what we're look
       
 Another intersting observation: yes, SVM had the highest score after feature selection and hypertuning, at .8932.  Potentially more interesting, it had the lowest difference between the Training Data and Testing Data.  And at the other end of the spectrum, the Decision Tree model had the highest difference.
 
+The Logistic Model had the most fluctation in the classification report from the first model to the second.  But seeing some zero values, I might have made a misstep.  Something to be looked at should this project be explored further.
+
+The final results of the trainingg data:
+1. KNN started at .8545 and ended at .8825     
+2. Logistic started at .6859 and ended at .8810     
+3. SVM started at .8440 and ended at .8932     
+4. Decision Tree started at 1.00 and ended at .8861
+
 If you would like to see screen shots of the final classification report for each model, you can click here or find them ....
 
 
