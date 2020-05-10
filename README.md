@@ -1,6 +1,13 @@
-# Exoplanet Exploration thru Machine Learning
+# Exoplanet Exploration thru Machine Learning     
+### *An analysis of five machine learning models*
 
 ![exoplanets.jpg](Images/exoplanets.jpg)
+
+## Background
+
+Over a period of nine years in deep space, the NASA Kepler space telescope has been out on a planet-hunting mission to discover hidden planets outside of our solar system.
+
+To help process this data, you will create machine learning models capable of classifying candidate exoplanets from the raw dataset.
 
 ### Before You Begin
 
@@ -18,11 +25,7 @@
 
 Keep in mind that this homework is optional! However, you will gain a much greater understanding of testing and tuning different Classification models if you do complete it.
 
-## Background
 
-Over a period of nine years in deep space, the NASA Kepler space telescope has been out on a planet-hunting mission to discover hidden planets outside of our solar system.
-
-To help process this data, you will create machine learning models capable of classifying candidate exoplanets from the raw dataset.
 
 In this homework assignment, you will need to:
 
