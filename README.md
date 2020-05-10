@@ -1,5 +1,4 @@
-# EXOPLANET EXPLORATION
-### Using Machine Learning to Find Planets: ### LDJFLSK
+# Exoplanet Exploration thru Machine Learning
 
 ![exoplanets.jpg](Images/exoplanets.jpg)
 
