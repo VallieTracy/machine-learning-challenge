@@ -1,5 +1,5 @@
 # Exoplanet Exploration thru Machine Learning     
-### *An analysis of five machine learning models*
+### *An analysis of four machine learning models*
 
 ![exoplanets.jpg](Images/exoplanets.jpg)
 
@@ -7,7 +7,7 @@
 
 Over a period of nine years in deep space, the NASA Kepler space telescope has been out on a planet-hunting mission to discover hidden planets outside of our solar system.
 
-To help process this data, you will create machine learning models capable of classifying candidate exoplanets from the raw dataset.
+To help process this data, I have created four machine learning models capable of classifying candidate exoplanets from the raw dataset. I've detailed my findings below.  Scroll to the bottom to read what exactly was asked of me.
 
 ### Before You Begin
 
