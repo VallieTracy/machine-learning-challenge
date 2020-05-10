@@ -27,9 +27,17 @@ To help process this data, I have created four machine learning models capable o
 #### *Tools Used to Optimize the Data:*     
   - GridSearchCV for hyperparameter tuning          
   - MinMaxScaler for preprocessing      
-  - ExtraTreesClassifier for feature selection  
+  - ExtraTreesClassifier for feature selection       
+  
+#### *General Methodology:*         
+For each of the four classification models, I first created a model and only did hyperparameter tuning, no feature selection.  Then I created a second model, where I could focus on the feature selection.  I decided to take this route, thinking if I could whittle down the hyperparameters, then I could most effectively determine the best features.  NOTE: I didn't test it in the other direction.
 
-## ANALYSIS 
+## ANALYSIS      
+As far as which model 'performed' the best, it really depends on what we're looking to accomplish.  Something that could be worth noting for stability purposes: both the SVM and Decision Tree models had consistent accuracy & precision values according to the classification_report.  When I say consistent, I mean the values didn't change from the first model of only hypertuning to the second model which included both hypertuning and feature selection.     
+      
+Another intersting observation: yes, SVM had the highest score after feature selection and hypertuning, at .8932.  Potentially more interesting, it had the lowest difference between the Training Data and Testing Data.  And at the other end of the spectrum, the Decision Tree model had the highest difference.
+
+If you would like to see screen shots of the final classification report for each model, you can click here or find them ....
 
 
 ### Before You Begin
