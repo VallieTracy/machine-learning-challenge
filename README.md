@@ -45,7 +45,7 @@ The final results of the trainingg data:
 3. SVM started at .8440 and ended at .8932     
 4. Decision Tree started at 1.00 and ended at .8861
 
-If you would like to see screen shots of the final classification report for each model, you can visit the [Classification_Reports] Folder(https://github.com/VallieTracy/machine-learning-challenge/tree/master/Classification_Reports "Reports"), located at the root level of this repo.  I've included two classification reports for each of the four models.  One report created with only tuning of the hyperparameters.  And then a second with feature selection added in.
+If you would like to see screen shots of the final classification report for each model, you can visit the [Classification_Reports Folder](https://github.com/VallieTracy/machine-learning-challenge/tree/master/Classification_Reports "Reports"), located at the root level of this repo.  I've included two classification reports for each of the four models.  One report created with only tuning of the hyperparameters.  And then a second with feature selection added in.
 
 
 
